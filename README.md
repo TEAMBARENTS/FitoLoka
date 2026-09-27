@@ -141,6 +141,7 @@ The compiled output will be generated inside the `dist/` directory.
 ## 🌐 Live Demo
 
 - **Production URL**: [fitoloka.netlify.app](https://fitoloka.netlify.app/)
+- **access dashboard user**: search LHN-001 and code is X7B9 
 
 ---
 
